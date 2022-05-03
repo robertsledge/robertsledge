@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @robertsledge
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in learning as much as I can, whenever I can.
+- 🌱 I’m currently learning python, building a terrible port scanner. Ha.
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me? Right here on github.
+- 📫 How to reach me? Right here on github. TH
+
+Thanks for checking out my github.  : )
 
 <!---
 robertsledge/robertsledge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
