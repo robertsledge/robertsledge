@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as I can, whenever I can.
 - 🌱 I’m currently learning python, building a terrible port scanner. Ha.
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me? Right here on github. TH
+- 📫 How to reach me? Right here on github. 
 
 Thanks for checking out my github.  : )
 
