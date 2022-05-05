@@ -9,6 +9,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/robertsledge/ActiveDirectoryLab)
+- [TCM Security's 25 Hour Ethical Hacking Course](https://github.com/robertsledge/TCM-Sec)
 
 <h2>📄 Certifications</h2>
 
