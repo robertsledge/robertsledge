@@ -14,9 +14,16 @@
 
 <h2>📄 Certifications</h2>
 
-- CCNA: Security
-- CompTIA Security+, A+, Project+
-- CIW Database, Javascript, Web Design
+- Cisco CCNA: Security
+- Cisco CCNA R&S 
+- Cisco CCENT
+- CompTIA Security+
+- CompTIA A+
+- CompTIA Project+
+- Microsoft MCTS: 70-680
+- CIW Database
+- CIW Javascript
+- CIW Web Design
 
 <h2>📺 Currently Learning:</h2>
 
