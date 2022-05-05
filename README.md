@@ -1,4 +1,10 @@
-<h1>Hi, I'm Rob. </h1>
+<h1>Robert Sledge </h1>
+
+- 👋 Hi, I’m @robertsledge
+- 👀 I’m interested in learning as much as I can, whenever I can.
+- 🌱 I’m currently learning python, building a terrible port scanner. Ha.
+- 💞️ I’m looking to collaborate on anything really.
+- 📫 How to reach me? Right here on github. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -24,14 +30,10 @@
 [linkedin]: https://www.linkedin.com/in/robert-sledge-a4063052/
 
 
+<br>
+<br>
+<br>
 
-
-
-- 👋 Hi, I’m @robertsledge
-- 👀 I’m interested in learning as much as I can, whenever I can.
-- 🌱 I’m currently learning python, building a terrible port scanner. Ha.
-- 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me? Right here on github. 
 
 Thanks for checking out my github.  : )
 
