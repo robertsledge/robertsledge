@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @robertsledge
 - 👀 I’m interested in learning as much as I can, whenever I can. 
-- 🌱 I’m currently learning more python, building a terrible port scanner. Ha.
-- 💞️ I’m looking to collaborate on anything infosec really. Could also be totally unrelated. Never know until you ask. 
-- 📫 How to reach me? Right here on github, and on my socials below. 
+- 🌱 I’m currently learning more python, and in the process of building a terrible port scanner. Ha.
+- 💞️ I’m looking to collaborate on anything infosec really. Could also be non-infosec stuff. Never know until you ask. 
+- 📫 How to reach me? Right here on github and on my socials below. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
