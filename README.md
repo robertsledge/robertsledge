@@ -18,7 +18,7 @@
 
 <h2>📺 Currently Learning:</h2>
 
-- [Python Lessons] (https://github.com/robertsledge/Python/)
+- [Python Lessons](https://github.com/robertsledge/Python/)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -35,7 +35,7 @@
 <br>
 
 
-Thanks for checking out my github.  : )
+Thanks for stopping by.  : )
 
 <!---
 robertsledge/robertsledge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
