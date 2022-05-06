@@ -1,6 +1,6 @@
 <h1>Robert Sledge </h1>
 
-- 👋 Hi, I’m @robertsledge
+- 👋 Hi, I’m @robertsledge - this github is brand brand new and will be getting filled out as time allows.
 - 👀 I’m interested in learning as much as I can, whenever I can. 
 - 🌱 I’m currently learning more python, and in the process of building a terrible port scanner. Ha.
 - 💞️ I’m looking to collaborate on anything infosec really. Could also be non-infosec stuff. Never know until you ask. 
