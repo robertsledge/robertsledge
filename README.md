@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @robertsledge - this github is brand brand new and will be getting filled out as time allows.
 - 👀 I’m interested in learning as much as I can, whenever I can. 
 - 🌱 I’m currently learning more python, and in the process of building a terrible port scanner. Ha.
-- 💞️ I’m looking to collaborate on anything infosec really. Could also be non-infosec stuff. Never know until you ask. 
+- 💞️ I’m looking to collaborate on all things infosec, infosec really. Could also be non-infosec stuff. Never know until you ask. 
 - 📫 How to reach me? Right here on github and on my socials below. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
