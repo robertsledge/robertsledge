@@ -34,9 +34,11 @@
 
 [<img align="left" alt="RobertSledge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RobertSledge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RobertSledge | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/robsledge
 [linkedin]: https://www.linkedin.com/in/robert-sledge-a4063052/
+[facebook]: https://www.facebook.com/rsledgeinfosec
 
 
 <br>
