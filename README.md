@@ -27,7 +27,7 @@
 
 <h2>📺 Currently Learning:</h2>
 
-- [Python Lessons](https://github.com/robertsledge/Python/)
+- [Python Lessons - Rob's Python Journey](https://github.com/robertsledge/Python/)
 
 <h2> 🤳 Connect with me:</h2>
 
