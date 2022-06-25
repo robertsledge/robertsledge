@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @robertsledge - this github is brand brand new and will be getting filled out as time allows.
 - 👀 I’m interested in learning as much as I can, whenever I can. 
-- 🌱 I’m currently learning more python, and in the process of building a terrible port scanner. Ha.
+- 🌱 I’m currently learning more python, BASH, and broadening my pentesting skills. Also studying for AWS Solutions Architect Certification, and having fun with TCM Security's live training prep for the PNPT exam, which I intend on taking after I pass my AWS certification.
 - 💞️ I’m looking to collaborate on all things infosec, really. Could also be non-infosec stuff. Never know until you ask. 
 - 📫 How to reach me? Right here on github and on my socials below. 
 
@@ -10,7 +10,6 @@
 
 - [Active Directory Home Lab](https://github.com/robertsledge/ActiveDirectoryLab)
 - [Simple Port Scanner in Python](https://github.com/robertsledge/Python/blob/main/PortScanner/portscanner.py)
-- [TCM Security's 25 Hour Ethical Hacking Course](https://github.com/robertsledge/TCM-Sec)
 - [BASH Ping Sweep Utility](https://github.com/robertsledge/BashPingSweeper)
 
 <h2>📄 Certifications</h2>
@@ -28,7 +27,13 @@
 
 <h2>📺 Currently Learning:</h2>
 
+- [TCM Security's 25 Hour Ethical Hacking Course](https://github.com/robertsledge/TCM-Sec)
 - [Python Lessons](https://github.com/robertsledge/Python/)
+
+<h2>👨‍💻 Resources:</h2>
+
+- [OWASP Stuff](https://github.com/robertsledge/OWASP/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
