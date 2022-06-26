@@ -33,6 +33,7 @@
 <h2>👨‍💻 Resources:</h2>
 
 - [OWASP Stuff](https://github.com/robertsledge/OWASP/)
+- [5 Pillars] (https://github.com/DFIRmadness/5pillars/blob/master/5-Pillars.md)
 
 
 <h2> 🤳 Connect with me:</h2>
