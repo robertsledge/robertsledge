@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @robertsledge - this github is still pretty new and will be getting filled out as time allows.
 - 👀 I’m interested in learning as much as I can, whenever I can about Infosec overall, with an emphasis on red team activities.
-- 🌱 I’m currently learning more python, BASH, broadening my pentesting skills, and having fun with TCM Security's training prep for the PNPT exam.
+- 🌱 I’m currently learning more python, BASH, broadening my pentesting skills, and having fun with TCM Security's training for their PNPT exam. Malware analysis is on my radar currently as well.
 - 💞️ I’m looking to collaborate on all things infosec, really. Could also be non-infosec stuff. Never know until you ask. 
 - 📫 How to reach me? Right here on github and on my socials below. 
 
